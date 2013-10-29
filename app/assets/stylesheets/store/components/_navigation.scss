@@ -47,7 +47,7 @@
         font-weight: 600;
 
         &:hover {
-          background-color: #8dba53 !default;
+          background-color: #8dba53;
           color: white !important;
         }
       }
@@ -80,7 +80,7 @@
             text-transform: none;
 
             &:hover {
-              background-color: #8dba53 !default;
+              background-color: #8dba53;
               color: white !important;
             }
           }
@@ -139,16 +139,16 @@ nav #main-nav-bar, nav#top-nav-bar {
       font-weight: 600 !important;
 
       &:hover, &.active {
-        color: #8dba53 !default !important;
+        color: #8dba53 !important;
       }
     }
 
     &.current {
       a {
-        color: #8dba53 !default;
+        color: #8dba53;
 
         &:hover {
-          color: darken(#8dba53 !default, 5);
+          color: darken(#8dba53, 5);
         }
       }
     }
