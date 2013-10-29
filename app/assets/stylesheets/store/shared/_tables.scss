@@ -1,3 +1,5 @@
+@import "compass/css3";
+@import "../variables";
 table {
   thead {
     background-color: lighten($c_blue, 30);  
