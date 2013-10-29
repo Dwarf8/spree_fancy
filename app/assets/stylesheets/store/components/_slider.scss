@@ -1,3 +1,5 @@
+@import "compass/css3";
+@import "../variables";
 #subheader {
   @include single-box-shadow(darken($c_green, 10), 0, 0, 15px, 0, true);
 
