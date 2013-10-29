@@ -1,3 +1,5 @@
+@import "compass/css3";
+@import "../variables";
 [data-hook="product_price"] {
   margin-bottom: 24px;
   border-bottom: 2px solid lighten($c_blue, 30);
