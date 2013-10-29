@@ -1,3 +1,5 @@
+@import "compass/css3";
+@import "../variables";
 a {
   @include transition-duration(0.3s);  
 }
