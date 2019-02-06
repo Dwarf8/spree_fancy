@@ -1,5 +1,5 @@
 @import "../variables";
-@import "../fix";
+@import "./fix";
 #breadcrumbs {
   border-color: lighten($c_green, 20);
   width: auto;
